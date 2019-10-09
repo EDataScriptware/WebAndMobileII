@@ -1,0 +1,313 @@
+
+@media screen and (min-width: 350px)  {
+    .topleftblock
+    {   padding: 3em 3em 3.6em 3em;
+        margin: 1em 1em 1em 1em;
+        color: #D358F7;
+        font-family: "Verdana", sans-serif;
+        float: left;
+        position: relative;
+        background-color: darkgreen;
+        border-radius: 2em;
+        text-align: center;
+        font-size: 2em;
+        cursor: grab;
+        
+    }
+
+    .toprightblock
+    {   padding: 3em 1.5em 3.6em 1.5em;
+        margin: 1em 1em 1em 1em;
+        color: #D358F7;
+        font-family: "Verdana", sans-serif;
+        float: left;
+        position: relative;
+        background-color: darkgreen;
+        border-radius: 2em;
+        text-align: center;
+        font-size: 2em;
+        cursor: grab;
+
+    }
+
+    .bottomleftblock
+    {   
+        padding: 3em 2.5em 3.6em 2.5em;
+        margin: 10.5em 2em 1em -20em;
+        color: #D358F7;
+        font-family: "Verdana", sans-serif;
+        float: left;
+        position: relative;
+        background-color: darkgreen;
+        border-radius: 2em;
+        text-align: center;
+        font-size: 2em;
+        cursor: grab;
+
+    }
+
+    .bottomrightblock
+    {   
+        padding: 3em 3em 3.5em 3.1em;
+        margin: 10.5em 2em 1em -9em;
+        color: #D358F7;
+        font-family: "Verdana", sans-serif;
+        float: left;
+        position: relative;
+        background-color: darkgreen;
+        border-radius: 2em;
+        text-align: center;
+        font-size: 2em;
+        cursor: grab;
+
+    }
+
+
+
+    .star
+    {
+        color: #32BC17;
+        text-shadow: .05em .05em .007em yellow;
+        font-size: 1.5em;
+        padding: .0001em .0001em .0001em .0001em;
+        margin: -1em -1em -1em -3em
+    }    
+}
+
+@media screen and (min-width: 350px) and (max-width: 500px) {
+    .image
+    {
+        background-image: url(../images/side.jpg);
+        width: 15%;
+        float: left;
+        background-repeat: repeat-y;
+        margin: 1% 1% 1% 1%;
+        padding-top: 60em;
+        display: inline-block;
+        position: relative;
+        
+
+    }
+    .topleftblock
+    {   padding: 3em 3em 3.6em 3em;
+        margin: 1em 1em 1em 1em;
+        color: #D358F7;
+        font-family: "Verdana", sans-serif;
+        float: left;
+        position: relative;
+        background-color: darkgreen;
+        border-radius: 2em;
+        text-align: center;
+        font-size: 2em;
+        cursor: grab;
+
+    }
+    
+
+    .toprightblock
+    {   padding: 3em 1.5em 3.6em 1.5em;
+        margin: 1em 1em 1em 1em;
+        color: #D358F7;
+        font-family: "Verdana", sans-serif;
+        float: left;
+        position: relative;
+        background-color: darkgreen;
+        border-radius: 2em;
+        text-align: center;
+        font-size: 2em;
+        cursor: grab;
+
+    }
+
+    .bottomleftblock
+    {   
+        padding: 3em 2.5em 3.6em 2.5em;
+        margin: 10.5em 2em 1em -20em;
+        color: #D358F7;
+        font-family: "Verdana", sans-serif;
+        float: left;
+        position: relative;
+        background-color: darkgreen;
+        border-radius: 2em;
+        text-align: center;
+        font-size: 2em;
+        cursor: grab;
+
+    }
+
+    .bottomrightblock
+    {   
+        padding: 3em 3em 3.5em 3.1em;
+        margin: 10.5em 2em 1em -9em;
+        color: #D358F7;
+        font-family: "Verdana", sans-serif;
+        float: left;
+        position: relative;
+        background-color: darkgreen;
+        border-radius: 2em;
+        text-align: center;
+        font-size: 2em;
+        cursor: grab;
+    }
+
+
+    .star
+    {
+        color: #32BC17;
+        text-shadow: .05em .05em .007em yellow;
+        font-size: 1.5em;
+        padding: .0001em .0001em .0001em .0001em;
+        margin: -1em -1em -1em -3em
+
+    }
+}
+
+@media screen and (min-width: 500px) 
+{
+
+   
+    .image
+    {
+        background-image: url(../images/side.jpg);
+        width: 15%;
+        float: left;
+        background-repeat: repeat-y;
+        margin: 1% 1% 1% 1%;
+        padding-top: 60em;
+        display: inline-block;
+        position: relative;
+
+    }
+    .topleftblock
+    {   padding: 3em 3em 3.6em 3em;
+        margin: 1em 1em 1em 1em;
+        color: #D358F7;
+        font-family: "Verdana", sans-serif;
+        float: left;
+        position: relative;
+        background-color: darkgreen;
+        border-radius: 2em;
+        text-align: center;
+        font-size: 2em;
+        cursor: grab;
+    }
+
+  
+    .toprightblock
+    {   padding: 3em 1.5em 3.6em 1.5em;
+        margin: 1em 1em 1em 1em;
+        color: #D358F7;
+        font-family: "Verdana", sans-serif;
+        float: left;
+        position: relative;
+        background-color: darkgreen;
+        border-radius: 2em;
+        text-align: center;
+        font-size: 2em;
+        cursor: grab;
+
+    }
+
+    .bottomleftblock
+    {   
+        padding: 3em 2.5em 3.6em 2.5em;
+        margin: 10.5em 2em 1em -20em;
+        color: #D358F7;
+        font-family: "Verdana", sans-serif;
+        float: left;
+        position: relative;
+        background-color: darkgreen;
+        border-radius: 2em;
+        text-align: center;
+        font-size: 2em;
+        cursor: grab;
+
+    }
+
+    .bottomrightblock
+    {   
+        padding: 3em 3em 3.5em 3.1em;
+        margin: 10.5em 2em 1em -9em;
+        color: #D358F7;
+        font-family: "Verdana", sans-serif;
+        float: left;
+        position: relative;
+        background-color: darkgreen;
+        border-radius: 2em;
+        text-align: center;
+        font-size: 2em;
+        cursor: grab;
+
+    }
+    
+}
+
+/* Fade in fade out color */
+
+     .topleftblock:hover
+    {
+        background-color: purple;
+        transition: 1s;
+
+    }
+      .toprightblock:hover
+    {
+        background-color: purple;
+        transition: 1s;
+    }
+    .bottomleftblock:hover
+    {
+        background-color: purple;
+        transition: 1s;
+    }
+    .bottomrightblock:hover
+    {
+        background-color: purple;
+        transition: 1s;
+    }
+    
+
+.star
+{
+    color: #32BC17;
+    text-shadow: .05em .05em .007em yellow;
+    font-size: 1.5em;
+    padding: .0001em .0001em .0001em .0001em;
+    margin: -1em -1em -1em -3em
+}
+
+.validator 
+    {
+        color: white;
+      position: absolute;
+        top: 60em;
+        font-size: 0.80em;
+        left: 13.16em;
+        right: 0;
+        padding: 3px;
+        text-align: center;
+        background-color: grey;
+        border-top: solid thick white;
+    }
+
+/* This is an example prototype that was demonstrated in class to be able to follow and understand. */
+/*.sidebar
+{
+    width: 31.25%;
+    margin-right: 2.08334%;
+    /* transition: all 5s; 
+    transition: background 8s ease,
+                padding 2s linear;
+    
+}
+.sidebar:hover
+{
+    background: purple;
+    width: 25%;
+    cursor: pointer;
+}
+
+.content
+{
+    width: 66.66667%;
+}*/

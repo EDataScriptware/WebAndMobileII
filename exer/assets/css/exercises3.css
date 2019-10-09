@@ -1,0 +1,94 @@
+html
+{
+    background-color: orange;
+}
+
+/* Style the header */
+.header {
+  padding: 0.0001em 0.001em;
+  background-color: darkorange;
+  color: #f1f1f1;
+    font-size: 2.3em;
+    text-align: center;
+    border: solid black .15em;
+    position: sticky;
+    position: -webkit-sticky;
+    position: -moz-sticky;
+    position: -o-sticky;
+    position: -ms-sticky;
+    
+    /* position: -webkit-sticky; */
+    /* position: sticky; */
+
+  margin-top: -2.5em;
+  width: 100%;
+    top: 0;
+    height: 1.5em;
+    padding-top: 10px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.heading
+{
+    float: left;
+    margin-bottom: .5em;
+}
+.header a
+{
+    float: right;
+    font-size: .53em;
+    margin-right: 2em;
+}
+body 
+{
+    margin-top: 6em;
+}
+.box
+{
+    padding 1em;
+  margin-top: 1em;
+  background: darkorange;
+  color: #f1f1f1;  
+    font-size: 1.5em;
+    font-size-adjust: auto;
+        border: solid black .05em;
+    font-family: "Verdana", serif;
+}
+
+.CodeBox
+{
+   padding 1em;
+  margin: 1em;
+    font-size: .75em;
+    background: white;
+    color: black;  
+    font-family: "New Courier", monospace;
+     border: solid black .05em 
+}
+
+.sitemapexample
+{
+    padding 1em;
+    position: relative;
+  margin-top: 1em;
+  background: white;
+    color: black;
+    font-size: 2em;
+    font-size-adjust: auto;
+        border: solid black .05em        
+}
+.subheaderTitle
+{
+ color: black;  
+    font-size: 2em;
+    font-family: "Georgia", serif;
+    text-transform: uppercase;
+    border-bottom: solid;
+    background-color: #D77C00;
+    margin-bottom: .25em;
+}
+
+footer
+{
+    color: black;
+    text-align: center;
+}

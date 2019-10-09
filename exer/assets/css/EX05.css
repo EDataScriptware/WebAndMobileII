@@ -1,0 +1,21 @@
+/*
+Edward Riley
+3/03/2019
+ISTE240 Exercise 5 – JavaScript Part 1
+*/
+html
+{
+    margin-left: 2em;
+    color: lightgray;
+    font-family: cursive;
+}
+h2
+{
+    color: gray;
+    font-family: "Verdana";
+}
+input
+{
+    color: red;
+    font-family: "Times New Roman";
+}
