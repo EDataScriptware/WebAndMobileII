@@ -1,0 +1,69 @@
+nav
+{
+    position: absolute;
+    text-align: center;
+    font-size: 1.5em;
+    background-color: #3B3B3B;
+    border: solid black .05em;
+    margin-left: 25em;
+    margin-right: 25em;
+    margin-top: -.8em;
+}
+.logo
+{
+    margin-left: 50em;
+    margin-bottom: 1em;
+}
+a
+{
+    border: solid 2px #7CA1F4;
+    margin: 1em;
+    color: white;
+    background-color: #7CA1F4;
+    text-decoration: none;
+}
+body
+{
+    background-color: #2B2B2B; 
+}
+.pizza
+{
+margin-top: -18.6em;
+    margin-left: 15em;
+    margin-right: 15em;
+    border-radius: 1em;
+    padding-top: .5em;
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+    background-color: #7CA1F4;
+    font-family: "Verdana", sans-serif;
+    text-decoration: underline;
+}
+.pizzas_2
+{
+    float: left;
+}
+.pizzas_3
+{
+    float: right;
+    margin-top: -33em;
+}
+.menu_title
+{
+    border-radius: .5em;
+    font-size: 1.5em;
+    text-align: center;
+    border: solid black 2px;
+    margin-left: 15em;
+    margin-right: 15em;
+    background-color: white;
+    padding-left: 2em;
+    padding-right: 2em;
+    font-family: "Verdana", sans-serif;
+
+}
+.menu_content
+{
+    font-size: .5em;
+}
